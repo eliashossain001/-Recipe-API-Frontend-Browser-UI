@@ -53,3 +53,14 @@ Look at the following to understand the Searching and Filtering:
 * Filter Cuisine: Type cuisine name (e.g. "Southern Recipes") → filters by cuisine.
 * Min Rating: Enter exact rating (e.g. 4.8) → filters by rating.
 * Pagination: Change number of results per page → use Next/Previous buttons.
+
+🧾 Viewing Recipe Details
+Click on a recipe row → opens a drawer/modal.
+
+* Shows:
+* Recipe Title + Cuisine
+* Description
+* Total Time (Prep + Cook Time)
+* Nutrition (in table format)
+🚫 No Results Found
+If no recipes match → "No recipes found." message appears.
