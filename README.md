@@ -32,3 +32,14 @@ Once the project is cloned, then type the following command to navigate the dire
 ```
 cd recipe-api-ui
 ```
+2️⃣ Install dependencies
+```
+pip install django djangorestframework django-filter
+```
+3️⃣ Run migrations and load data
+
+```
+python manage.py migrate
+python manage.py runserver
+```
+
