@@ -19,3 +19,12 @@ Users can filter recipes, search by title or cuisine, sort by rating, and view d
 * Django REST Framework
 * Bootstrap 5 (for responsive frontend)
 * JavaScript (vanilla for frontend interactions)
+
+## Folder Structure
+![image](https://github.com/user-attachments/assets/0849fe5e-c927-418c-ad99-fcc503f84497)
+
+## Installation and Setup
+* Clone the repository
+``git clone https://github.com/yourusername/recipe-api-ui.git
+cd recipe-api-ui
+``
