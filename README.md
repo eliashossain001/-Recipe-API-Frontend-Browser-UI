@@ -42,4 +42,7 @@ pip install django djangorestframework django-filter
 python manage.py migrate
 python manage.py runserver
 ```
+4️⃣ Access API and UI
 
+* API: ```http://127.0.0.1:8000/api/recipes/```
+* Frontend UI: ```http://127.0.0.1:8000/api/ui/```
