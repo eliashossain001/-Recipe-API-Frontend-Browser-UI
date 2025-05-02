@@ -64,3 +64,14 @@ Click on a recipe row → opens a drawer/modal.
 * Nutrition (in table format)
 🚫 No Results Found
 If no recipes match → "No recipes found." message appears.
+
+## Sample Output 
+Hit the following query in the browser end point:
+
+```
+http://127.0.0.1:8000/api/recipes/?page=1&limit=10
+```
+This will retrieve the following output:
+
+![image](https://github.com/user-attachments/assets/5abd580a-cf9e-40d8-adad-a2708309b700)
+
