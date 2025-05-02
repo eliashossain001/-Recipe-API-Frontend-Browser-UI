@@ -46,3 +46,10 @@ python manage.py runserver
 
 * API: ```http://127.0.0.1:8000/api/recipes/```
 * Frontend UI: ```http://127.0.0.1:8000/api/ui/```
+
+## Usage
+Look at the following to understand the Searching and Filtering:
+* Search Title: Type a keyword (e.g. "potato", "sweet") → shows matching recipes.
+* Filter Cuisine: Type cuisine name (e.g. "Southern Recipes") → filters by cuisine.
+* Min Rating: Enter exact rating (e.g. 4.8) → filters by rating.
+* Pagination: Change number of results per page → use Next/Previous buttons.
