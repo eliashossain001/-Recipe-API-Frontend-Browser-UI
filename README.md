@@ -75,3 +75,19 @@ This will retrieve the following output:
 
 ![image](https://github.com/user-attachments/assets/5abd580a-cf9e-40d8-adad-a2708309b700)
 
+Now, again Hit the following query in the browser end point:
+```
+http://127.0.0.1:8000/api/recipes/search/?calories=%3C=400&title=pie&rating=%3E=4.5
+```
+This will retrieve the following output:
+![image](https://github.com/user-attachments/assets/78b5ce0d-2bf5-4dd2-a4bd-73073a13901d)
+
+Lastly, to access the UI, hit the following command:
+```
+http://127.0.0.1:8000/api/ui/
+```
+This will get you the following output:
+![image](https://github.com/user-attachments/assets/59b96e41-bc7f-4456-a02a-3387a720f184)
+
+
+
