@@ -24,7 +24,11 @@ Users can filter recipes, search by title or cuisine, sort by rating, and view d
 ![image](https://github.com/user-attachments/assets/0849fe5e-c927-418c-ad99-fcc503f84497)
 
 ## Installation and Setup
-* Clone the repository
+1️⃣ Clone the repository
 ```
-git clone https://github.com/yourusername/recipe-api-ui.git
+https://github.com/eliashossain001/-Recipe-API-Frontend-Browser-UI.git
+```
+Once the project is cloned, then type the following command to navigate the directory:
+```
+cd recipe-api-ui
 ```
