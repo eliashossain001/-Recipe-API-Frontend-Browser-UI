@@ -1,0 +1,18 @@
+tr.clickable {
+    cursor: pointer;
+}
+
+tr.clickable:hover {
+    background-color: #f0f0f0;
+}
+
+.truncate {
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.star {
+    color: gold;
+}
