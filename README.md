@@ -12,3 +12,10 @@ Users can filter recipes, search by title or cuisine, sort by rating, and view d
 * Drawer/Modal popup for recipe details (Description + Nutrition)
 * Fallback "No results found" message when no recipes match search
 * Responsive and clean UI
+
+## Technologies Used
+* Python 3.x
+* Django
+* Django REST Framework
+* Bootstrap 5 (for responsive frontend)
+* JavaScript (vanilla for frontend interactions)
