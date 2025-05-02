@@ -25,6 +25,6 @@ Users can filter recipes, search by title or cuisine, sort by rating, and view d
 
 ## Installation and Setup
 * Clone the repository
-``git clone https://github.com/yourusername/recipe-api-ui.git
+```git clone https://github.com/yourusername/recipe-api-ui.git
 cd recipe-api-ui
-``
+```
